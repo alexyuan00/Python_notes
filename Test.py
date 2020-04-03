@@ -9,3 +9,4 @@ def type_of_album(artist, album, year_released):
         return "Oldie"
 x= type_of_album("Taylor Swift", "Red", 2012)
 print(x)
+
