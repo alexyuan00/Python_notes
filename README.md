@@ -1,3 +1,3 @@
 # Python_notes
-Personal notes
-For Github test
+Python personal notes
+for Github test
